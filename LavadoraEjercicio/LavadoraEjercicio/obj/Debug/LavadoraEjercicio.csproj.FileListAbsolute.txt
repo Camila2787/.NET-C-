@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\bin\Debug\LavadoraEjercicio.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\bin\Debug\LavadoraEjercicio.exe
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\bin\Debug\LavadoraEjercicio.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\obj\Debug\LavadoraEjercicio.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\obj\Debug\LavadoraEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\obj\Debug\LavadoraEjercicio.exe
+C:\Users\camil\OneDrive\Desktop\.NET\LavadoraEjercicio\LavadoraEjercicio\obj\Debug\LavadoraEjercicio.pdb

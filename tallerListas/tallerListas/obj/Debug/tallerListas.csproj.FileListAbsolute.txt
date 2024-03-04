@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\bin\Debug\tallerListas.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\bin\Debug\tallerListas.exe
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\bin\Debug\tallerListas.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\obj\Debug\tallerListas.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\obj\Debug\tallerListas.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\obj\Debug\tallerListas.exe
+C:\Users\camil\OneDrive\Desktop\.NET\tallerListas\tallerListas\obj\Debug\tallerListas.pdb

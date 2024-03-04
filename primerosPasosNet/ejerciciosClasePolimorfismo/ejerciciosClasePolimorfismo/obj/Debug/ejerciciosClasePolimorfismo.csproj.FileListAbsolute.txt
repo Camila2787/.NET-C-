@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\bin\Debug\ejerciciosClasePolimorfismo.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\bin\Debug\ejerciciosClasePolimorfismo.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\bin\Debug\ejerciciosClasePolimorfismo.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\obj\Debug\ejerciciosClasePolimorfismo.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\obj\Debug\ejerciciosClasePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\obj\Debug\ejerciciosClasePolimorfismo.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\ejerciciosClasePolimorfismo\ejerciciosClasePolimorfismo\obj\Debug\ejerciciosClasePolimorfismo.pdb
