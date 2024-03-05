@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj": {}
+    "C:\\Users\\camil\\OneDrive\\Desktop\\.NET\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj": {}
   },
   "projects": {
-    "C:\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj": {
+    "C:\\Users\\camil\\OneDrive\\Desktop\\.NET\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj",
+        "projectUniqueName": "C:\\Users\\camil\\OneDrive\\Desktop\\.NET\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj",
         "projectName": "PortafolioWeb1",
-        "projectPath": "C:\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj",
+        "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\.NET\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\PortafolioWeb1.csproj",
         "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-        "outputPath": "C:\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\obj\\",
+        "outputPath": "C:\\Users\\camil\\OneDrive\\Desktop\\.NET\\PortafolioWeb\\PortafolioWeb1\\PortafolioWeb1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",

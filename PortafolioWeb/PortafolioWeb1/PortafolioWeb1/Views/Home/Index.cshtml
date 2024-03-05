@@ -1,29 +1,9 @@
-﻿@model Persona
+﻿@model HomeIndexViewModel
 @{
     ViewData["Title"] = "Home Page";
 
-    string convertirEnMayusculas(string valor)
-    {
-        return valor.ToUpper() + ", MVP";
-    }
-    DateTime hoy = DateTime.Now;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Soy @convertirEnMayusculas(Model.Nombre) (@Model.Edad) </h1>
-    <h4>@hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
-    @if (Model.Edad >= 18)
-    {
-        <h4>Eres mayor de edad, puedes pasar... <button>Ingresar</button></h4>
-    }
-    else
-    {
-        <h4>Eres menor de edad, no puedes pasar...</h4>
-    }
-    <h4>Soy un intento de programadora, otaku y animalista.</h4>
-    <img
-         id="foto"
-         src="~/img/profesional.jpg" alt="profesional"/>
-
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<partial name="_presentacion"/>
+<partial name="_Habilidades"/>
+<partial name="_SeccionProyectos" model="Model.Proyectos"/>
