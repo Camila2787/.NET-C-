@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\bin\Debug\metodosPractica.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\bin\Debug\metodosPractica.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\bin\Debug\metodosPractica.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\obj\Debug\metodosPractica.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\obj\Debug\metodosPractica.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\obj\Debug\metodosPractica.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\metodosPractica\metodosPractica\obj\Debug\metodosPractica.pdb

@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\bin\Debug\punto2TallerMetodos.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\bin\Debug\punto2TallerMetodos.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\bin\Debug\punto2TallerMetodos.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\obj\Debug\punto2TallerMetodos.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\obj\Debug\punto2TallerMetodos.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\obj\Debug\punto2TallerMetodos.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\punto2TallerMetodos\punto2TallerMetodos\obj\Debug\punto2TallerMetodos.pdb

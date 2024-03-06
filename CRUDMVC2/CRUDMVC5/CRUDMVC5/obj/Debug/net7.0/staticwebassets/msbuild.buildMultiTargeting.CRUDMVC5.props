@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUDMVC5.props" />
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\obj\Debug\gimnasioAlgoritmo.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\obj\Debug\gimnasioAlgoritmo.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\bin\Debug\gimnasioAlgoritmo.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\bin\Debug\gimnasioAlgoritmo.exe
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\bin\Debug\gimnasioAlgoritmo.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\obj\Debug\gimnasioAlgoritmo.exe
+C:\Users\camil\OneDrive\Desktop\.NET\gimnasioAlgoritmo\gimnasioAlgoritmo\obj\Debug\gimnasioAlgoritmo.pdb

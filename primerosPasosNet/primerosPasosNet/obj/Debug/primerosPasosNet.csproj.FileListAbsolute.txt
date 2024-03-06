@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\bin\Debug\primerosPasosNet.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\bin\Debug\primerosPasosNet.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\bin\Debug\primerosPasosNet.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\obj\Debug\primerosPasosNet.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\obj\Debug\primerosPasosNet.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\obj\Debug\primerosPasosNet.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\primerosPasosNet\obj\Debug\primerosPasosNet.pdb

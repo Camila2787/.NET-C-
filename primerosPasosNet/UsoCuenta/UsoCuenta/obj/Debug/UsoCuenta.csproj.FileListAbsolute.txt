@@ -1,0 +1,7 @@
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.exe.config
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\bin\Debug\UsoCuenta.pdb
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.exe
+C:\Users\camil\OneDrive\Desktop\.NET\primerosPasosNet\UsoCuenta\UsoCuenta\obj\Debug\UsoCuenta.pdb
